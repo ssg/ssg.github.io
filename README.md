@@ -1,3 +1,5 @@
-# ssg's sandbox
+[ekşi sözlük backup reader](sozluk-backup-reader) · [yubitell](yubitell)
 
-welcome! this is the root of my code experiments. 
+<hr>
+
+[about](https://github.com/ssg)
