@@ -1,4 +1,4 @@
-[ekşi sözlük backup reader](eksi-yedek) · [yubitell](yubitell)
+[ekşi sözlük backup reader](eksi-yedek) · [ourobs](ourobs) · [yubitell](yubitell)
 
 <hr>
 
