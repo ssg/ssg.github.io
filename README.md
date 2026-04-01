@@ -3,7 +3,7 @@
 ## [/bmw-to-kml](bmw-to-kml) 
 convert BMW drive recorder files to google earth KML format
 
-## [/eksi-reader](eksi-yedek) 
+## [/eksi-yedek](eksi-yedek) 
 a browser interface for [ekşi sözlük](https://en.wikipedia.org/wiki/Ekşi_Sözlük) backup files.
 
 ## [/ourobs](ourobs) 
